@@ -1,0 +1,15 @@
+{
+  "name": "vortex-core-8046",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4069,
+    "createdAt": "2026-09-08T11:18:32.597Z"
+  }
+}
